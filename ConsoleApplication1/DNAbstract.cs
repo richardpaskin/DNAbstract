@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//                                      // For the database connections and objects.
+using System.Data.SqlClient;      
+
 namespace DNAbstract
 {
     class DNAbstract
